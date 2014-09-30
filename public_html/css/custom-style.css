@@ -3,6 +3,7 @@ div {
     border-width: 5px;
     border-color: green;
     padding: 30px;
+    background-color: lightblue;
 }
 
 .container {
