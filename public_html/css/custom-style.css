@@ -20,6 +20,16 @@ div {
     margin-bottom: 40px;
 }
 
+body {
+    background-color: lightblue;
+    
+    
+}
+
+nav a {
+    color: red;
+}
+
 
 
 
